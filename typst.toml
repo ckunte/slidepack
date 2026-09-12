@@ -1,0 +1,6 @@
+[package]
+name = "slidepack"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["C Kunte"]
+description = "My custom local slide pack (polylux) layout package."
